@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @om2602
+- 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in web/software development 
 - 🌱 I’m currently learning backend 
 - 💞️ I’m looking to collaborate on projects related to web development
